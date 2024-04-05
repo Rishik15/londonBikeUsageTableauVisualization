@@ -19,7 +19,8 @@ To interact with the visualization:
 
 ## Additional Resources
 For a detailed tutorial on how this visualization was created, check out the following YouTube video:
-[END TO END DATA ANALYST PORTFOLIO PROJECT | From data gathering to data visualisation on YouTube by Mo Chen](https://youtu.be/nl9eZl1IOKI?feature=shared)
+
+[END TO END DATA ANALYST PORTFOLIO PROJECT | From data gathering to data visualisation by Mo Chen](https://youtu.be/nl9eZl1IOKI?feature=shared)
 
 ## License
 

@@ -1,4 +1,4 @@
-# LondonBikesMovingAverageVisualization
+# London Bikes Moving Average Visualization
 
 This repository contains the visualization project "LondonBikesMovingAverageVisualization," which offers an interactive view of bike usage trends in London, with a heatmap containing the Temperature and Wind speed details at that particular time.
 

@@ -12,6 +12,9 @@ A packaged version of the workbook (.twbx file) is also included in this reposit
 The data set used for this project is available on Kaggle:
 [London Bike Sharing Dataset on Kaggle](https://www.kaggle.com/code/zulfiquaradil/london-bike-rides)
 
+For data preparation and manipulation, see the `Data Manipulation.ipynb` Jupyter Notebook in this repository. This notebook documents the changes made to the dataset to support the visualization, including value adjustments and data transformation.
+
+
 ## How to Use
 To interact with the visualization:
 1. Visit the Tableau Public link above.
